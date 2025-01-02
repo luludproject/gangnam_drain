@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gangseo.the-drain.com/sitemap.xml
+Sitemap: https://gangnam.the-drain.com/sitemap.xml
